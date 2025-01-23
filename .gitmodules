@@ -1,0 +1,9 @@
+[submodule "DiscreteLevelSetPersistence"]
+	path = DiscreteLevelSetPersistence
+	url = https://github.com/gessl/DiscreteLevelSetPersistence/
+[submodule "p5.gui"]
+	path = p5.gui
+	url = https://github.com/bitcraftlab/p5.gui
+[submodule "ringbufferwebaudio"]
+	path = ringbufferwebaudio
+	url = https://github.com/gessl/ringbufferwebaudio
